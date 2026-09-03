@@ -1,0 +1,10 @@
+ethics/
+soc-triage-sim.html
+admin-export.html
+netlify-deploy/
+data.csv
+data-cleaning-log.md
+analysis.py
+analysis-results.txt
+dissertation-results-draft.md
+*.pyc
